@@ -85,8 +85,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otrijka&show_icons=true&locale=en&layout=compact" alt="otrijka" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Microseversk&show_icons=true&locale=en&layout=compact" alt="Microseversk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otrijka&show_icons=true&locale=en" alt="otrijka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Microseversk&show_icons=true&locale=en" alt="Microseversk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otrijka&" alt="otrijka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Microseversk&" alt="Microseversk" /></p>
