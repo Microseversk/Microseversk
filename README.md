@@ -66,7 +66,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/>
   </a>
 
-    <!--Vercel--->
+  <!--Vercel--->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="vercel" width="40" height="40"/>
   </a>
