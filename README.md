@@ -2,8 +2,6 @@
 <h3 align="center">Frontend developer from Russia, Tomsk</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://sun9-40.userapi.com/impg/UYku1THen2Z9wA7NGl_0GzTUmzyCD3H07ZW_Rw/kiOesrERQgI.jpg?size=663x661&quality=96&sign=59f313befdc31591c97b44344962da91&type=album" alt="html5" width="200" height="200"/> 
-<img src="https://sun9-58.userapi.com/impg/WzgB6YQYgXFDbs70xQHGAwDtFVbCAqpXTDk4ww/nrP6wx7b6pQ.jpg?size=1024x1024&quality=95&sign=8716d52415b199a0d7c0a6fe9657830c&type=album" alt="html5" width="200" height="200"/> 
 <p align="left"> 
   
   <!--HTML--->
