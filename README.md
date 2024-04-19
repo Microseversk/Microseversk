@@ -2,8 +2,9 @@
 <h3 align="center">Frontend developer from Russia, Tomsk</h3>
 
 <h3 align="left">Languages and Tools:</h3>
+<img src="https://sun9-40.userapi.com/impg/UYku1THen2Z9wA7NGl_0GzTUmzyCD3H07ZW_Rw/kiOesrERQgI.jpg?size=663x661&quality=96&sign=59f313befdc31591c97b44344962da91&type=album" alt="html5" width="200" height="200"/> 
 <p align="left"> 
-
+  
   <!--HTML--->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> 
