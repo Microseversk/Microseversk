@@ -97,6 +97,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Microseversk&show_icons=true&locale=en" alt="Microseversk" /></p> --->
 
 
-<img align="left" src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-999.gif" alt="Microseversk" />
+<img align="left" src="https://i.pinimg.com/originals/a1/4d/58/a14d58e39c3d9d59bee3a6d887d197e9.gif" alt="Microseversk" />
 
 
