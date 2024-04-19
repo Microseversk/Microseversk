@@ -1,7 +1,4 @@
-<img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW8zbmZub3VyZ2wwM2kxYW5oOWYxcWsxY2NjdHh3bG1vZTN0NGlmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPzuDa62ovAI/giphy.gif" width='100%' height='300px' alt="Microseversk" />
-
-<h1 align="center">Hi 👋, I'm Alexander Osipov</h1>
-<h3 align="center">Frontend developer from Russia, Tomsk</h3>
+<img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW8zbmZub3VyZ2wwM2kxYW5oOWYxcWsxY2NjdHh3bG1vZTN0NGlmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPzuDa62ovAI/giphy.gif" width='100%' height='330px' alt="Microseversk" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
